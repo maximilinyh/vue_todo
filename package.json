@@ -20,6 +20,20 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximilinyh/vue_todo.git"
+  },
+  "author": "Maxim Ilinyh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximilinyh/vue_todo/issues"
+  },
+  "homepage": "/"
 }
